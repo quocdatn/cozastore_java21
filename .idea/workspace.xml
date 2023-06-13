@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bedb0e-903c-4068-8356-aff393b44850" name="Changes" comment="first commit" />
+    <list default="true" id="64bedb0e-903c-4068-8356-aff393b44850" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Dat/JAVA_21/CozastoreProject/Git_projectcozastore/cozastore_java21/src/main/java/com/cybersoft/cozastore_java21/entity/ids",
+    "last_opened_file_path": "C:/Dat/JAVA_21/SpringFrameWork/demosecurity21",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
@@ -48,6 +59,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Dat\JAVA_21\CozastoreProject\Git_projectcozastore\cozastore_java21\src\main\java\com\cybersoft\cozastore_java21\entity\ids" />
       <recent name="C:\Dat\JAVA_21\CozastoreProject\Git_projectcozastore\cozastore_java21\src\main\java\com\cybersoft\cozastore_java21\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cybersoft.cozastore_java21.utils" />
+      <recent name="com.cybersoft.cozastore_java21.filter" />
+      <recent name="com.cybersoft.cozastore_java21.repository" />
+      <recent name="com.cybersoft.cozastore_java21.provider" />
+      <recent name="com.cybersoft.cozastore_java21.config" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,5 +129,16 @@
     <MESSAGE value="third commit" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cybersoft/cozastore_java21/filter/JwtFilter.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
