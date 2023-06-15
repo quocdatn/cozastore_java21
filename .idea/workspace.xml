@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="64bedb0e-903c-4068-8356-aff393b44850" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cybersoft/cozastore_java21/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cybersoft/cozastore_java21/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cybersoft/cozastore_java21/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cybersoft/cozastore_java21/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +48,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Dat/JAVA_21/SpringFrameWork/demosecurity21",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Dat/JAVA_21/SpringFrameWork/demosecurity21&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Dat\JAVA_21\CozastoreProject\Git_projectcozastore\cozastore_java21\src\main\java\com\cybersoft\cozastore_java21\entity\ids" />

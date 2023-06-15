@@ -6,7 +6,9 @@ import com.cybersoft.cozastore_java21.repository.UserRepository;
 import com.cybersoft.cozastore_java21.service.imp.UserSeviceImp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
 
+@Service
 public class UserService implements UserSeviceImp {
 
     @Autowired
@@ -24,6 +26,9 @@ public class UserService implements UserSeviceImp {
             user.setUsername(request.getUsername());
             user.setPassword(passwordEncoder.encode(request.getPassword()));
             user.setEmail(request.getEmail());
+
+            userRepository.save(user);
+            isSuccess = true;
         }catch (Exception e){
 
         }
