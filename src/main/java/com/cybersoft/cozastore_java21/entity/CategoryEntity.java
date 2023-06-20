@@ -50,4 +50,6 @@ public class CategoryEntity {
     public void setProducts(Set<ProductEntity> products) {
         this.products = products;
     }
+
+
 }
