@@ -1,6 +1,7 @@
 package com.cybersoft.cozastore_java21.service;
 
 import com.cybersoft.cozastore_java21.entity.UserEntity;
+import com.cybersoft.cozastore_java21.exeption.CustomExeption;
 import com.cybersoft.cozastore_java21.payload.request.SignUpRequest;
 import com.cybersoft.cozastore_java21.repository.UserRepository;
 import com.cybersoft.cozastore_java21.service.imp.UserSeviceImp;
@@ -30,7 +31,7 @@ public class UserService implements UserSeviceImp {
             userRepository.save(user);
             isSuccess = true;
         }catch (Exception e){
-
+            //throw new CustomExeption("Lỗi thêm user " + e.getMessage());
         }
 
         return isSuccess;
